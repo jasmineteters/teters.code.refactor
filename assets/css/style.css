@@ -9,7 +9,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*header classes grouped together*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -67,6 +67,8 @@ p {
     font-size: 16px;
 }
 
+/*grouped the content floating to the left together, all Search engine optimization and social media marketing classes together*/
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -108,6 +110,8 @@ p {
     font-size: 36px;
 }
 
+/*all of the online reputation management classes together*/
+
 .float-right {
     float: right;
     margin-left: 25px;
@@ -130,6 +134,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*aside section all in order*/
 
 .benefits {
     margin-right: 20px;
@@ -191,6 +197,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*footer classes together*/
 
 .footer {
     padding: 30px;
